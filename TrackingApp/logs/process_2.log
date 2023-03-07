@@ -1,0 +1,24 @@
+2023-03-07 19:41:36,947 INFO process(44) Create thread load frame
+2023-03-07 19:41:38,021 INFO process(47) Create redis connection
+2023-03-07 19:41:38,529 INFO process(56) Start task check
+2023-03-07 19:41:38,745 INFO process(61) {0: 1}
+2023-03-07 19:41:39,250 INFO process(56) Start task check
+2023-03-07 19:41:39,385 INFO process(61) {0: 1}
+2023-03-07 19:41:40,394 INFO process(56) Start task check
+2023-03-07 19:41:40,557 INFO process(61) {0: 1}
+2023-03-07 19:41:41,568 INFO process(56) Start task check
+2023-03-07 19:41:41,693 INFO process(61) {0: 1}
+2023-03-07 19:41:42,197 INFO process(56) Start task check
+2023-03-07 19:41:42,339 INFO process(61) {0: 1}
+2023-03-07 19:41:43,348 INFO process(56) Start task check
+2023-03-07 19:41:43,701 INFO process(61) {0: 2}
+2023-03-07 19:41:44,708 INFO process(56) Start task check
+2023-03-07 19:41:44,868 INFO process(61) {0: 1}
+2023-03-07 19:41:45,370 INFO process(56) Start task check
+2023-03-07 19:41:45,587 INFO process(61) {0: 1}
+2023-03-07 19:41:46,598 INFO process(56) Start task check
+2023-03-07 19:41:46,793 INFO process(61) {0: 1}
+2023-03-07 19:41:47,802 INFO process(56) Start task check
+2023-03-07 19:41:47,944 INFO process(61) {0: 1}
+2023-03-07 19:41:48,451 INFO process(56) Start task check
+2023-03-07 19:41:48,585 INFO process(61) {0: 1}
